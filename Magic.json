@@ -1,21 +1,14 @@
+[
 {
-    "id": "538534",
-    "username": "rana",
-    "password": "rana786",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  }
-  {
-    "id": "android_device_id_2",
-    "username": "rana",
-    "password": "rana786",
-    "expiresAt": "2026-11-30",
-    "allowOffline": false
-  }
-  {
-    "id": "6182eec6d55e93ef",
-    "username": "rana",
-    "password": "rana786",
-    "expiresAt": "2026-11-10",
-    "allowOffline": true
-  }
+"device_id": "device123",
+"key": "key12345",
+"expirydate": "31-12-2026",
+"Allowoffline": true
+},
+{
+"device_id": "device456",
+"key": "key67890",
+"expirydate": "15-06-2026",
+"Allowoffline": false
+}
+]
